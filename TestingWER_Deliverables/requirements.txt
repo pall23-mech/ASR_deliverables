@@ -1,0 +1,28 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# WER Evaluation Harness — requirements
+# Pinned to known-good versions for Icelandic ASR evaluation (Málrómur project)
+# ─────────────────────────────────────────────────────────────────────────────
+
+# ── PyTorch (CUDA 12.1 recommended) ──────────────────────────────────────────
+# CUDA 12.1:  pip install torch==2.3.1 torchaudio==2.3.1 --index-url https://download.pytorch.org/whl/cu121
+# CUDA 11.8:  pip install torch==2.3.1 torchaudio==2.3.1 --index-url https://download.pytorch.org/whl/cu118
+# CPU only:   pip install torch==2.3.1 torchaudio==2.3.1 --index-url https://download.pytorch.org/whl/cpu
+torch==2.3.1
+torchaudio==2.3.1
+
+# ── HuggingFace ───────────────────────────────────────────────────────────────
+transformers>=4.40.0,<5.0
+datasets>=2.19.0,<3.0
+huggingface-hub>=0.22.0
+accelerate>=0.29.0
+
+# ── Audio ─────────────────────────────────────────────────────────────────────
+soundfile>=0.12.1
+
+# ── Output ────────────────────────────────────────────────────────────────────
+matplotlib>=3.8.0
+pandas>=1.5.0,<3.0
+
+# ── Misc ──────────────────────────────────────────────────────────────────────
+numpy>=1.24.0,<2.0
+tqdm>=4.66.0
