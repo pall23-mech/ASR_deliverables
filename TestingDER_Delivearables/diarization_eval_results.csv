@@ -1,0 +1,2 @@
+index,backend,dataset,split,audio_path,duration,num_segments,der,der_percent
+0,pyannote_local,palli23/Spjallromur-AB-NoOverlap-v3,train[:1],D:\Cluster\Whisper-preprocess\Testing_Delivearables\diar_eval_audio\0000_MergedAudio_3972fbd3.wav,1798.9700000000007,892,0.2502078458008514,25.02078458008514

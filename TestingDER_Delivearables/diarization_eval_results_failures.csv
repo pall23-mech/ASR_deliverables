@@ -1,0 +1,3 @@
+index,backend,audio_path,error
+0,pyannote_local,diar_eval_audio\0000_MergedAudio_3972fbd3.wav,TorchCodec is required for load_with_torchcodec. Please install torchcodec to use this function.
+1,pyannote_local,diar_eval_audio\0001_MergedAudio_c9f6b9e2.wav,TorchCodec is required for load_with_torchcodec. Please install torchcodec to use this function.
