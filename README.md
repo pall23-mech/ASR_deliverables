@@ -1,4 +1,4 @@
-# Málrómur — Conversational ASR for Icelandic
+# Spjallrómur— Conversational ASR for Icelandic
 
 **Author:** Páll Rúnarsson, Reykjavík University / Language and Voice Lab  
 **Contact:** pallr@ru.is  
