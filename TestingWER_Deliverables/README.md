@@ -106,5 +106,4 @@ Each file:
 
 ## Acknowledgements
 
-Dataset, processing code, and Arrow format by Páll Rúnarsson, Reykjavík University.  
-Developed as part of the nationally funded Málrómur speech processing project.
+Dataset, processing code, and evaluation harness by Páll Rúnarsson, Reykjavík University / Language and Voice Lab. Developed as part of the nationally funded Málrómur speech processing project, with advisory input from Professor Jón Guðnason (Language and Voice Lab, Reykjavík University) and Dr. Michal Borsky (Tiro). Corpus provided via CLARIN-IS / Spjallrómur.
