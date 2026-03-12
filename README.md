@@ -2,7 +2,7 @@
 
 **Author:** Páll Rúnarsson, Reykjavík University / Language and Voice Lab  
 **Contact:** pallr@ru.is  
-**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by/4.0/)  
 **Last updated:** March 2026
 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue) ![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey) ![Last updated: Mar 2026](https://img.shields.io/badge/last%20updated-Mar%202026-green)
