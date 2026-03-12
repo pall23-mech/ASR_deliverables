@@ -66,4 +66,4 @@ Málrómur Evaluation Suite © 2026 by Páll Rúnarsson is licensed under Creati
 
 ## Acknowledgements
 
-Developed at Reykjavík University / Language and Voice Lab in collaboration with Tiro as part of the nationally funded Málrómur project. Corpus provided via [CLARIN-IS](https://clarin.is) / Spjallrómur. Base Whisper model (`whisper-large-icelandic-62640-steps-967h`) developed by **Carlos Hernandez** at the [Language and Voice Lab](https://huggingface.co/language-and-voice-lab).
+Developed at Reykjavík University / Language and Voice Lab in collaboration with Tiro as part of the nationally funded Málrómur project. Research conducted with advisory input from Professor Jón Guðnason (Language and Voice Lab, Reykjavík University) and Dr. Michal Borsky (Tiro). Corpus provided via CLARIN-IS / Spjallrómur. Base Whisper model (whisper-large-icelandic-62640-steps-967h) developed by Carlos Hernandez at the Language and Voice Lab.
