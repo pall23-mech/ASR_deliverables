@@ -7,7 +7,7 @@
 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue) ![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey) ![Last updated: Mar 2026](https://img.shields.io/badge/last%20updated-Mar%202026-green)
 
-This repository contains the full research and evaluation pipeline developed as part of the **Málrómur** nationally funded speech processing project. The work focuses on advancing Icelandic automatic speech recognition for conversational domains using the Spjallrómur corpus.
+This repository contains the full research and evaluation pipeline developed as part of the **Almannarómur** máltækniáætlun nationally funded speech processing project. The work focuses on advancing Icelandic automatic speech recognition for conversational domains using the Spjallrómur corpus.
 
 ---
 
