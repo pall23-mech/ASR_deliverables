@@ -10,6 +10,10 @@
 This repository contains the full research and evaluation pipeline developed as part of the **Almannarómur** máltækniáætlun nationally funded speech processing project. The work focuses on advancing Icelandic automatic speech recognition for conversational domains using the Spjallrómur corpus.
 
 ---
+> **Note:** The `aws` and `revai` backends are experimental. Cloud API behaviour, 
+> quota limits, and audio format requirements vary by account and region. 
+> `pyannote_local` and `rttm` are the recommended backends for reproducible results.
+
 
 ## Repository structure
 
