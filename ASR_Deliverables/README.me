@@ -10,6 +10,7 @@
 Reproducible fine-tuning recipe for Whisper-Large on Icelandic conversational speech.
 Includes a segment-aware dataset builder for the Spjallrómur corpus and a full training
 script with early stopping, WER evaluation, and held-out test scoring.
+The standout feature of this work is the segment-aware dataset builder specifically designed for conversational speech. Unlike common fixed-length or silence-based chunking approaches, this builder targets ~24-second chunks (with a hard 40-second maximum) while strictly respecting original segment boundaries and speaker turns. It never cuts mid-segment and never discards audio, preserving the natural flow, disfluencies, and dialogue structure of spontaneous Icelandic speech. This careful preprocessing significantly improves training stability and downstream performance on real conversational data.
 
 > **Results:** Fine-tuning on Spjallrómur reduces WER from 46.2% → 28.6% compared to read-speech adaptation alone — a 38% relative improvement.
 
